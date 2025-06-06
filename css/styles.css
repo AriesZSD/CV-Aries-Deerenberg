@@ -19,7 +19,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #ffaaaa;
+    background-color: #310000;
 }
 
 .resume-main {
@@ -62,5 +62,5 @@ font-family: "Merriweather", serif;
   font-style: normal
   font-variation-settings
   "wdth" 100;
-  color: #190000;
+  color: #ffe6e6
 }

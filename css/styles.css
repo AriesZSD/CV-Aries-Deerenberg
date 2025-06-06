@@ -23,15 +23,15 @@ font-family: "Merriweather", serif;
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #ffcccc;
+    background-color: #ffaaaa;
 }
 
 .resume-main {
-	background-color: #fff4f4;
+	background-color: #ffe6e6;
 }
 
 .resume-aside {
-	background-color: #ffe7e7;
+	background-color: #ffd0d0;
 }
 
 /* Styles for lists in the document */

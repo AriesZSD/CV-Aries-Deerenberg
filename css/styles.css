@@ -18,11 +18,13 @@ body {
 
 .name {
 font-family: "Merriweather", serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style:normal;
-  font-variation-settings:
-    "wdth" 100;
+  font-family: "Sonsie One", system-ui;
+  font-weight: 400;
+  font-style: normal
+  font-variation-settings
+  "wdth" 100;
+  color: #190000;
+  background-color: #f8f8fc;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */

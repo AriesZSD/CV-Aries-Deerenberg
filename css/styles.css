@@ -52,7 +52,7 @@ font-family: "Merriweather", serif;
 }
 
 .biography-details li::before {
-	color: #310000;
+	color: #ff5c5c;
 }
 
 .biography-details li, .skill-list li {

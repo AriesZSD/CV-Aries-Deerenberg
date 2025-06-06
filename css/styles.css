@@ -16,17 +16,6 @@ body {
 	background-color: #f8f8fc;
 }
 
-.name {
-font-family: "Merriweather", serif;
-  font-family: "Sonsie One", system-ui;
-  font-weight: 400;
-  font-style: normal
-  font-variation-settings
-  "wdth" 100;
-  color: #190000;
-  background-color: #f8f8fc;
-}
-
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
@@ -64,4 +53,15 @@ font-family: "Merriweather", serif;
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.resume-header {font-style: italic;
+font-family: "Merriweather", serif;
+  font-family: "Sonsie One", system-ui;
+  font-weight: 400;
+  font-style: normal
+  font-variation-settings
+  "wdth" 100;
+  color: #190000;
+  background-color: #f8f8fc;
 }
